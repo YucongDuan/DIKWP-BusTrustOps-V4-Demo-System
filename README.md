@@ -1,5 +1,7 @@
 # DIKWP BusTrustOps V4 Demo System
 
+Created by Yucong Duan (段玉聪).
+
 ## What it is
 A standalone browser-based simulation console for DIKWP public transport semantic governance.
 It demonstrates Evidence Ledger, DIKWP SemanticClosure, Action Ticket, role governance, multi-agent coordination, and white-box evaluation.
